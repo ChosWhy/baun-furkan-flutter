@@ -41,6 +41,12 @@ class _ScreenThreeState extends State<ScreenThree> {
                       overflow: TextOverflow.fade),
                 )),
                 decoration: BoxDecoration(
+                  boxShadow: [BoxShadow(
+                      color: Colors.black26,
+                    offset: Offset(0, 3),
+                    blurRadius: 4,
+                    spreadRadius: 2
+                  ),],
                   borderRadius: BorderRadius.circular(20),
                   color: Colors.deepPurple,
                 ),

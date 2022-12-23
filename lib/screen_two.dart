@@ -126,5 +126,4 @@ Widget MyContainer(double? fontSize, Color textColor,
 ///
 ///ekran 3 ün butonun üstüne basınca aslan ejdarha olucak
 ///
-///
 ///githubda baun-furkan-flutter repo olustur sonra bunu pushla
